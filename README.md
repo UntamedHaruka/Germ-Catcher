@@ -1,5 +1,6 @@
 # 🎮 Germ Catcher (Unity 2D Game)
-
+🎮 Play the Game
+👉https://untamedharuka.itch.io/germ-catcher
 ## 🧠 Description
 
 Germ Catcher is a 2D Unity game where the player interacts with moving elements to catch germs and score points. The game demonstrates core Unity concepts like player movement, object spawning, and collision detection.
